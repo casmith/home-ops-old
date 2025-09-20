@@ -62,6 +62,12 @@ spec:
         enabled: true
         existingClaim: consolewiki-data-v1
         mountPath: /app-data
+      backup:
+        enabled: true
+        type: nfs
+        server: 192.168.10.3
+        path: /volume1/cluster/backup/consolewiki
+        mountPath: /backup
     resources:
       requests:
         cpu: 10m
