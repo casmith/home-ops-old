@@ -6,7 +6,6 @@ resources:
   - ./akaunting/ks.yaml
   - ./kavita/ks.yaml
   - ./kapowarr/ks.yaml
-  - ./nextcloud/ks.yaml
   - ./paperless-ngx/ks.yaml
   - ./changedetection/ks.yaml
   - ./teslamate/ks.yaml
