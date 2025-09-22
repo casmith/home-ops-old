@@ -4,14 +4,10 @@ kind: Kustomization
 resources:
   - ./namespace.yaml
   - ./akaunting/ks.yaml
-  - ./miniflux/ks.yaml
-  - ./peppermint/ks.yaml
   - ./kavita/ks.yaml
   - ./kapowarr/ks.yaml
   - ./nextcloud/ks.yaml
   - ./paperless-ngx/ks.yaml
-  - ./consolewiki/ks.yaml
   - ./changedetection/ks.yaml
   - ./teslamate/ks.yaml
-  - ./home-assistant/ks.yaml
   - ./n8n/ks.yaml
