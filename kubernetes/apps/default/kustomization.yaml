@@ -9,4 +9,3 @@ resources:
   - ./paperless-ngx/ks.yaml
   - ./changedetection/ks.yaml
   - ./teslamate/ks.yaml
-  - ./n8n/ks.yaml
