@@ -7,4 +7,3 @@ resources:
   - ./kavita/ks.yaml
   - ./kapowarr/ks.yaml
   - ./paperless-ngx/ks.yaml
-  - ./changedetection/ks.yaml
