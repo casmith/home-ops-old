@@ -8,4 +8,3 @@ resources:
   - ./kapowarr/ks.yaml
   - ./paperless-ngx/ks.yaml
   - ./changedetection/ks.yaml
-  - ./teslamate/ks.yaml
