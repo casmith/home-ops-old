@@ -6,4 +6,3 @@ resources:
   - ./akaunting/ks.yaml
   - ./kavita/ks.yaml
   - ./kapowarr/ks.yaml
-  - ./paperless-ngx/ks.yaml
